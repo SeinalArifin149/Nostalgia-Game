@@ -12,7 +12,6 @@ Proyek ini dibuat untuk mengingat kembali game-game ringan yang pernah populer d
 
 ## 🛠 Teknologi yang Digunakan
 
-- 🧠 **PHP** – Untuk halaman awal
 - 🌐 **HTML5** – Struktur halaman dan tampilan game
 - 🎨 **CSS3** – Tampilan dan styling tiap game agar menarik
 - ⚙️ **JavaScript** – Logika game interaktif
